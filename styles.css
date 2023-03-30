@@ -1,0 +1,47 @@
+.body {
+    background: #eeff03;
+}
+
+.logo-nav {
+    height: 54px;
+    width: 237.9px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    float: right;
+  }
+  
+  .logo {
+    height: 54px;
+    width: 54px;
+  }
+  
+  .nav {
+    height: 20px;
+    width: 260.99px;
+  }
+  
+  li {
+    font-family: "Staatliches", "Sans-serif";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  ul.hr {
+    margin: 0;
+    padding: 4px;
+  }
+  
+  ul.hr li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+  }
